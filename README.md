@@ -22,7 +22,7 @@ It is currently in its initial stages. Feedback is welcomed, and the developers 
 
 ### Example usage
 
-Once you have created your own, or imported existing, grid, market and agent classes, you may run a simulation as follows:
+Once you have created your own (or imported existing) grid, market and agent classes, you may run an environment episode as follows:
 
 1. **Instantiate the objects**
 

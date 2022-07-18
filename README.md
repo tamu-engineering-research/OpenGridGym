@@ -1,6 +1,6 @@
 # OpenGridGym
 
-OpenGridGym is an Open-Source AI-friendly toolkit for distribution market simulation, referenced and described here: https://arxiv.org/abs/2203.04410
+OpenGridGym is an Open-Source AI-friendly toolkit for distribution market simulation, referenced and described here: https://arxiv.org/abs/2203.04410. Please refer to the paper for details on authors and contact information.
 
 
 
@@ -43,5 +43,4 @@ Once you have created your own, or imported existing, grid, market and agent cla
    for t in env.iterate():
        ... # customize as needed (e.g. observe measurements)
    ```
-
 
